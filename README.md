@@ -4,4 +4,4 @@ Flutter Project for HNG stage 2.
 
 ## An app that collect and display user's input
 
-![Video]https://github.com/josh4500/HNGi8-userinput/blob/main/hng8.mp4?raw=true
+![Video]https://j.gifs.com/36640Q.gif
