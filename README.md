@@ -6,4 +6,6 @@ Flutter Project for HNG stage 2.
 
 [![IMAGE ALT TEXT HERE](https://internship.zuri.team/static/media/logo.36d2d48a.svg)](https://internship.zuri.team/)
 
+https://internship.zuri.team/
+
 [![IMAGE ALT TEXT HERE](https://j.gifs.com/36640Q.gif)]
