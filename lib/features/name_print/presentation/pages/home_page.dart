@@ -230,7 +230,7 @@ class _HomePageState extends State<HomePage> {
                     child: Image.asset(
                       "assets/images/hng-brand-logo.png",
                       scale: 1.8,
-                      color: Colors.black54,
+                      color: Colors.white,
                     ),
                   ),
                 )
