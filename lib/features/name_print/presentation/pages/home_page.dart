@@ -44,10 +44,10 @@ class _HomePageState extends State<HomePage> {
                     height: 24,
                     width: 24,
                   ),
-                  title: Text('For HNG Intership 8'),
+                  title: Text('For HNG Intership 8 at zuri'),
                   onTap: () async {
-                    if (await canLaunch("https://github.com/josh4500")) {
-                      await launch("https:github.com/josh4500");
+                    if (await canLaunch("https://internship.zuri.team/")) {
+                      await launch("https://internship.zuri.team/");
                     }
                   },
                 ),
@@ -66,8 +66,9 @@ class _HomePageState extends State<HomePage> {
                   ),
                   onTap: () async {
                     if (await canLaunch(
-                        "https//:github.com/josh4500/HNGi8-userinput")) {
-                      await launch("https:github.com/josh4500");
+                        "https://github.com/josh4500/HNGi8-userinput")) {
+                      await launch(
+                          "https://github.com/josh4500/HNGi8-userinput");
                     }
                   },
                 ),
