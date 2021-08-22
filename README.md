@@ -10,4 +10,4 @@ https://github.com/josh4500/HNG-print-name/blob/main/print_name.dart
 
 https://internship.zuri.team/
 
-[![IMAGE ALT TEXT HERE](https://j.gifs.com/36640Q.gif)]
+[![IMAGE ALT TEXT HERE](https://j.gifs.com/36yypR.gif)]
